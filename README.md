@@ -1,15 +1,20 @@
-<h1 align="center">Hi 👋, my name is Angelica Hoskins</h1>
-<h3 align="center">But, you can call me Amy. I am a Web Developer</h3>
+<h1 align="center">Angelica Hoskins</h1>
+<h3 align="center">But you can call me Amy.</h3>
+<h3 align="center">I'm a Web Developer.</h3>
+
+
+<p> Hi 👋 my name is Angelica Hoskins and I am enrolled in the Software Development Bootcamp at the Southern Careers Institute. I love building easy to use, mobile first projects with languages like HTML, CSS, and JavaScript and Frameworks such as Angular and Node.js. I am looking for a developer position to assist the tech department with building and maintaining their websites and applications. 
+</p>
 
 - 👨‍💻 All of my projects are... [https://ahos333.github.io/](https://ahos333.github.io/)
 
-- 📝 I regularly write articles on [Fanfiction, but also poems and short stories](Fanfiction, but also poems and short stories)
+- 📝 I regularly work on web dev projects and write Fanfiction
 
-- 💬 Ask me about **CSS**
+- 💬 Ask me about **HTML and CSS**
 
-- 📫 How to reach me **anghos080@gmail.com**
+- 📫 How to reach me at **anghos080@gmail.com**
 
-- ⚡ Fun fact **I love anime. My favorite one is Fruits Basket.**
+- ⚡ Fun fact: I love anime. My favorites are Fruits Basket, Sailor Moon, Fire Force, and My Hero Academia.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
