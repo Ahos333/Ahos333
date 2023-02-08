@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **HTML and CSS**
 
-- 📫 How to reach me at **anghos080@gmail.com**
+- 📫 How to reach me at **angelicaahoskins@gmail.com**
 
 - ⚡ Fun fact: I love anime. My favorites are Fruits Basket, Sailor Moon, Fire Force, and My Hero Academia.
 
